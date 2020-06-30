@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/drawable-hdpi/ic_format_align_left_24dp.png",
+        "source": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/generated/res/pngs/defaultConfig/debug/drawable-hdpi/ic_format_align_left_24dp.png"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/drawable-hdpi/ic_format_align_center_24dp.png",
+        "source": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/generated/res/pngs/defaultConfig/debug/drawable-hdpi/ic_format_align_center_24dp.png"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/drawable-hdpi/ic_align_center.png",
+        "source": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/src/main/res/drawable-hdpi/ic_align_center.png"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/drawable-hdpi/ic_align_left.png",
+        "source": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/src/main/res/drawable-hdpi/ic_align_left.png"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/drawable-hdpi/ic_format_align_right_24dp.png",
+        "source": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/generated/res/pngs/defaultConfig/debug/drawable-hdpi/ic_format_align_right_24dp.png"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/drawable-hdpi/ic_align_right.png",
+        "source": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/src/main/res/drawable-hdpi/ic_align_right.png"
+    }
+]

@@ -1,0 +1,26 @@
+[
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/layout-v11/notification_media_action.xml",
+        "source": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/layout-v11/notification_media_action.xml"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/layout-v11/notification_media_cancel_action.xml",
+        "source": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/layout-v11/notification_media_cancel_action.xml"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/layout-v11/notification_template_big_media_custom.xml",
+        "source": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/layout-v11/notification_template_big_media_custom.xml"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/layout-v11/notification_template_big_media.xml",
+        "source": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/layout-v11/notification_template_big_media.xml"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/layout-v11/notification_template_big_media_narrow.xml",
+        "source": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/layout-v11/notification_template_big_media_narrow.xml"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/layout-v11/notification_template_big_media_narrow_custom.xml",
+        "source": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+    }
+]

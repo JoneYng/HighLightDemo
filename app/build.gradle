@@ -1,0 +1,39 @@
+apply plugin: 'com.android.application'
+
+android {
+    compileSdkVersion rootProject.compileSdk
+    buildToolsVersion  rootProject.buildTools
+
+    defaultConfig {
+        applicationId "com.github.iojjj.rcbs.app"
+        minSdkVersion  rootProject.minSdk
+        targetSdkVersion  rootProject.targetSdk
+        versionCode 1
+        versionName "1.0"
+    }
+
+    buildTypes {
+        release {
+            minifyEnabled false
+            proguardFiles getDefaultProguardFile('proguard-android.txt'), 'proguard-rules.pro'
+        }
+    }
+    productFlavors {
+        defaultConfig {
+            minSdkVersion 9
+            targetSdkVersion 25
+        }
+        instantRun {
+            minSdkVersion 21
+            targetSdkVersion 25
+        }
+    }
+}
+
+dependencies {
+    compile 'com.android.support:appcompat-v7:25.3.1'
+    compile project(':library')
+}
+repositories {
+    mavenCentral()
+}

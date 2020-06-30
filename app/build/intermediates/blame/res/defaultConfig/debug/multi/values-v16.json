@@ -1,0 +1,26 @@
+[
+    {
+        "outputFile": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/incremental/mergeDefaultConfigDebugResources/merged.dir/values-v16/values-v16.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endColumn": 65,
+                    "endOffset": 116
+                },
+                "from": {
+                    "file": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/values-v16/values-v16.xml",
+                    "position": {
+                        "startLine": 2,
+                        "startColumn": 4,
+                        "startOffset": 55,
+                        "endColumn": 65,
+                        "endOffset": 116
+                    }
+                }
+            }
+        ]
+    }
+]

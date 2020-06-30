@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/layout-v21/notification_template_icon_group.xml",
+        "source": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/layout-v21/notification_template_icon_group.xml"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/layout-v21/notification_template_custom_big.xml",
+        "source": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/layout-v21/notification_template_custom_big.xml"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/layout-v21/notification_action_tombstone.xml",
+        "source": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/layout-v21/notification_action_tombstone.xml"
+    },
+    {
+        "merged": "/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/res/merged/defaultConfig/debug/layout-v21/notification_action.xml",
+        "source": "/Users/zhouxiang/.android/build-cache/bfdd47fee0a4e41b10c197c677b8aaa526eb1bf9/output/res/layout-v21/notification_action.xml"
+    }
+]

@@ -1,0 +1,4 @@
+#Tue Jun 30 10:21:44 CST 2020
+base.0=/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/transforms/dex/defaultConfig/debug/folders/1000/1f/main
+renamed.0=classes.dex
+file.0=/Users/zhouxiang/Downloads/RoundedCornersBackgroundSpan-master/app/build/intermediates/transforms/dex/defaultConfig/debug/folders/1000/1f/main/classes.dex
